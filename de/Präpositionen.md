@@ -1,9 +1,4 @@
----
-title: Präpositionen
-categories: Deutsch
-abbrlink: 2499372094
-date: 2024-11-25 14:02:10
----
+
 
 ## Präpositionen mit Dativ und Akkusativ
 

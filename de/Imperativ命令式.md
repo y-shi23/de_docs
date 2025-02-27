@@ -1,9 +1,4 @@
----
-title: Imperativ命令式
-categories: Deutsch
-abbrlink: 2773177681
-date: 2024-11-24 14:22:09
----
+
 
 ### Imperativ mit Sie
 

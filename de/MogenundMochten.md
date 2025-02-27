@@ -1,9 +1,4 @@
----
-title: Konjunktiv II(Mögen und Möchten)
-categories: Deutsch
-abbrlink: 1165727573
-date: 2024-11-24 12:44:10
----
+
 
 > 原文地址 [germantakeaways.com](https://germantakeaways.com/difference-mogen-and-mochten/). modified by Ocean.
 
