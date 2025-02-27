@@ -15,21 +15,24 @@
     window.$docsify = {
       name: 'De Ocean | 学习文档',
       <!-- 侧边栏配置，目录功能 -->
+      search: {
+          noData: 'No results!',
+          paths: 'auto',
+          placeholder: 'Search',
+          namespace: 'website-1',
+          pathNamespaces: ['/de', '/en'],
+        },
       loadSidebar: true, 
       subMaxLevel: 2,
       coverpage: true,
       // 导航栏配置
       loadNavbar: true,
       repo: ''
-      search: {
-          // insertAfter: '.app-name',
-          // insertBefore: '.sidebar-nav',
-          noData: {
-            '/': 'No results!',
-          },
+      
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
