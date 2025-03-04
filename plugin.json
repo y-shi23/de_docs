@@ -1,0 +1,17 @@
+{
+  "logo": "logo.png",
+  "main": "index.html",
+  "features": [
+    {
+      "code": "md",
+      "explain": "文档",
+      "cmds": ["en", "de"]
+    }
+  ],
+  "pluginSetting": {
+    "single": true,
+    "height": 0,
+    "width": 0,
+    "overwrite": true
+  }
+} 
