@@ -8,5 +8,4 @@
 
 - Copyright © 2025 Ocean. All rights reserved.
 
-[Blog](https://ocean.oneloved.cn)
-[Get Started](#de-ocean-学习文档)
+[Get Started](/help/)
